@@ -48,3 +48,4 @@ We're also opening the gates to:
    ```bash
    git clone https://github.com/your-username/farmiore.git
    cd farmiore
+   npm i
