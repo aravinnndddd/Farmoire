@@ -31,18 +31,19 @@ We're also opening the gates to:
 
 | Layer        | Technology            |
 |--------------|------------------------|
-| **Frontend** | React.js               |
+| **Frontend** | React.js✅            |
 | **Backend**  | Node.js, Express.js    |
 | **Database** | MongoDB                |
 | **Payments** | Razorpay               |
 | **Auth**     | OAuth 2.0              |
 | **Hosting**  | AWS (EC2, S3)          |
 | **Storage**  | Amazon S3              |
-| **Versioning** | GitHub               |
+| **Versioning** | GitHub✅             |
 
 ---
 
 ## 🧑‍💻 Getting Started (Development)
+
 
 1. **Clone the Repository**
    ```bash
